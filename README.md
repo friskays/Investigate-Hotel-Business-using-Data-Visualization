@@ -1,7 +1,7 @@
 # Investigate-Hotel-Business-using-Data-Visualization
 
 Problem Statement :
-Perusahaan ingin mengetahui perilaku pelanggan kita dalam melakukan pemesanan hotel, dan hubungannya terhadap tingkat pembatalan pemesanan hotel. Hasil dari insight yang didapat akan kita sajikan dalam bentuk data visualisasi agar lebih mudah dipahami dan bersifat lebih persuasif. 
+Perusahaan ingin mengetahui perilaku pelanggannya dalam melakukan pemesanan hotel, dan hubungannya terhadap tingkat pembatalan pemesanan hotel. Hasil dari insight yang didapat akan kita sajikan dalam bentuk data visualisasi agar lebih mudah dipahami dan bersifat lebih persuasif. 
 
 Proses data visualisasi:
 Sebelum melakukan data visualisasi, terlebih dahulu melakukan data cleaning agar hasil yang diperoleh nanti lebih representatif. 
