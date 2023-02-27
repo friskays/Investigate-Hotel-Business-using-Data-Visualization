@@ -1,4 +1,5 @@
 # Investigate-Hotel-Business-using-Data-Visualization
+-- Mini Project from Rakamin Academy --
 
 Problem Statement :
 - Perusahaan ingin mengetahui perilaku pelanggannya dalam melakukan pemesanan hotel, dan hubungannya terhadap tingkat pembatalan pemesanan hotel. Hasil dari insight yang didapat akan kita sajikan dalam bentuk data visualisasi agar lebih mudah dipahami dan bersifat lebih persuasif. 
